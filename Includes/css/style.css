@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+
+
+.link-cust {
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+    color: black;
+}
+a:hover {
+    color: black !important ;
+    font-weight: bolder;
+
+}
+.text-cust {
+    font-family: 'Nunito', sans-serif;
+    font-size: 100px;
+    color: black;
+
+}
+.desc-cust {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: black;
+}
+.form-cust {
+    background-color: rgb(236, 233, 233);
+    border-bottom: black;
+    border-width: thin;
+    border-style: solid;
+
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url('../images/fondo1.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
